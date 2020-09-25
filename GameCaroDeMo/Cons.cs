@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GameCaroDeMo
 {
-    //tạo lớp class Contens để lưu sau này sử dụng hằng số
+    //tạo lớp class Contens lưu giá trị
     public class Cons
     {
         //kích thước 1 ô vuông bàn cờ 

@@ -14,12 +14,11 @@ namespace GameCaroDeMo
 {
     public partial class Form1 : Form
     {
-        /// <summary>
-        /// gom code ChessBoardManager
+      
         #region Properties
-        ChessBoardManager ChessBoard;//từ public Panel ChessBoard
+        ChessBoardManager ChessBoard;
 
-        //tạo Socket
+       
         SocketManager socket;
         #endregion
 
