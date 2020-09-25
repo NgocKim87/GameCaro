@@ -14,7 +14,7 @@ namespace GameCaroDeMo
 {
     public partial class Form1 : Form
     {
-        //partial trong public partial  lass
+        //partial trong public partial  
         #region Properties
         ChessBoardManager ChessBoard;
 
