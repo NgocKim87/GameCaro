@@ -47,7 +47,7 @@ namespace GameCaroDeMo
 
         }
         #region Methods
-        //tạo tên code hàm NewGame, undo,quit
+        //tạo tên code hàm NewGame, undo,quit;
         void NewGame()
         {
             prcbCoolDown.Value = 0;
@@ -57,7 +57,7 @@ namespace GameCaroDeMo
 
             ChessBoard.DrawChessBroad();
             //reset lại gtri
-           // prcbCoolDown.Value = 0
+           // prcbCoolDown.Value = 0;;
            // tmCoolDown.Stop();//new game vtri nay van con hien thi prcbCoolDown nên di chuyển lên trước khi vẽ thanh sẽ mất
         }
         void Quit()
