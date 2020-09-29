@@ -10,7 +10,7 @@ namespace GameCaroDeMo
     {
         /// <summary>
         /// The main entry point for the application.
-        /// su dung git
+        
         [STAThread]
         static void Main()
         {
